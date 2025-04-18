@@ -45,3 +45,6 @@ adwordsperformanceforum.com
 adwordsprofessionals.co
 agence-adwords.com
 agenceadwords.org
+sponsor.ajay.app
+copilot-telemetry.githubusercontent.com
+telemetry.individual.githubcopilot.com
