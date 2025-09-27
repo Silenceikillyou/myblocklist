@@ -1,6 +1,6 @@
-https://sponsor.ajay.app/
-https://sb.ltn.fi/database/
-https://mirror.sb.mchang.xyz/
-https://sb.minibomba.pro/mirror/
-https://dearrow.minibomba.pro/sbserver/
-https://sponsor.ajay.app/database
+sponsor.ajay.app
+sb.ltn.fi/database
+mirror.sb.mchang.xyz
+sb.minibomba.pro/mirror
+dearrow.minibomba.pro/sbserver
+sponsor.ajay.app/database
