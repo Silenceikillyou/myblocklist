@@ -1,3 +1,4 @@
+[Adblock Plus]
 ||ad.lgappstv.com^
 ||ibis.lgappstv.com^
 ||lgad.cjpowercast.com.edgesuite.net^
