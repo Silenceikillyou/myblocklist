@@ -4,7 +4,7 @@
 ||lgsmartad.com^
 ||ibs.lgappstv.com^
 ||yumenetworks.com^
-|lgtvsdp.com^
+||lgtvsdp.com^
 ||smartshare.lgtvsdp.com^
 ||rdx2.lgtvsdp.com^
 ||lgtvcommon.com^
